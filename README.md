@@ -8,4 +8,5 @@ Things I Have Learned at Bloc.io
 5. Git
 6. Github
 7. Commit
+8. More Practice
 ```
