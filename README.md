@@ -7,4 +7,5 @@ Things I Have Learned at Bloc.io
 4. Command Line Terminal
 5. Git
 6. Github
+7. Commit
 ```
